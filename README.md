@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cristionkjeldgard
+- 👋 Hi, I’m @neokatin
 - 👀 I’m interested in LInux and I love videos and exiting new AI tech.
 - 🌱 I’m currently learning about coding.
 
